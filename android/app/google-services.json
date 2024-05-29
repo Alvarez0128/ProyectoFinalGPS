@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "67043335009",
+    "project_id": "proyectofinaldam-107d0",
+    "storage_bucket": "proyectofinaldam-107d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67043335009:android:72d0e6b1ed763e79e68320",
+        "android_client_info": {
+          "package_name": "com.gps.finalproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKEYh9_slEi34ENhvn1bRTiWzOrnz68gA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67043335009:android:d5a8db5ea6f52574e68320",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.dam_proyectofinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKEYh9_slEi34ENhvn1bRTiWzOrnz68gA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
